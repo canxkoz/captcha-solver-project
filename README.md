@@ -1,5 +1,13 @@
 # Implementation of Captcha-Solver and Generating Unsolvable Captchas
-Comp 430 - Data Privacy and Security - Final Project
+Comp 430/530 - Data Privacy and Security - Final Project
+
+# Project Developers
+Aleyna Kütük
+Can Köz
+Ece Alptekin
+Mehmet Üstek
+Simge Özdemir
+
 
 # Part 1
 First, we created different datasets of different sizes. In order to understand how to create different sized datasets read the readme of the code that we are also using: https://github.com/JackonYang/captcha-tensorflow.git
