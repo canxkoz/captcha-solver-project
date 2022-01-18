@@ -18,6 +18,7 @@ Once you do that you can run the cell which tests the model on any given dataset
 This way we tested our already trained model -which acts as the adversary- on our dataset -which acts as defenders dataset-.
 Adversary's model had a 40% accuracy drop from what it was trained on which means that the proposed captcha generation method works nicely for an attacker that uses CNN. 
 The figure for comparing how our approach affected the accuracy of our model:
+
 ![image](https://user-images.githubusercontent.com/53303474/149988697-a71bd07e-2a62-43e9-b39f-0cf4719921b7.png)
 ## Running Instructions for Part 2
 See the file captcha_solver_one_digit.ipynb in "Part 2 Dataset Creation" directory to see our novel unsolvable captcha approach.
@@ -30,6 +31,8 @@ For part 1 in order for the models to have a 90% accuracy you should not be limi
 Around 22k samples would yield 90% accuracy and around 2k samples will yield 10% accuracy on all models for DATASETS THAT ONLY CONTAIN NUMBERS FROM 0-9. Remember to keep the datasplit 80% to 20%.
 # Benchmarking
 Benchmarking of training dataset in CNN models:
+
 ![image](https://user-images.githubusercontent.com/53303474/149988468-6121ea53-5e1f-46ac-bf68-75461afeb181.png)
 Benchmarking of training dataset in YOLO models:
+
 ![image](https://user-images.githubusercontent.com/53303474/149991263-eea874b5-86f2-4bf6-953e-d35dd79ca132.png)
