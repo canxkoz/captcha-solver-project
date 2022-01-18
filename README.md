@@ -33,6 +33,7 @@ Around 22k samples would yield 90% accuracy and around 2k samples will yield 10%
 Benchmarking of training dataset in CNN models:
 
 ![image](https://user-images.githubusercontent.com/53303474/149988468-6121ea53-5e1f-46ac-bf68-75461afeb181.png)
+
 Benchmarking of training dataset in YOLO models:
 
 ![image](https://user-images.githubusercontent.com/53303474/149991263-eea874b5-86f2-4bf6-953e-d35dd79ca132.png)
